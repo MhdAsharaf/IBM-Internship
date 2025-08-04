@@ -61,8 +61,9 @@ Power system faults such as Line-to-Ground (LG), Line-to-Line (LL), Double Line-
 
 Below are sample screenshots from the project:
 
-- ![Inserted Data](screenshots/inserted_data.jpg)
-- ![Predicted Output](screenshots/predicted_output.jpg)
+ ![Inserted Data](screenshots/inserted_data.jpg)
+ 
+ ![Predicted Output](screenshots/predicted_output.jpg)
 
 ---
 
